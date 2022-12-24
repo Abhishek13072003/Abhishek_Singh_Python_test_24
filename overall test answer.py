@@ -119,6 +119,11 @@
 #    cntarr.append(cnt+1)
 #print(max(cntarr))
 
+# Question-12
+# s=input()
+# for i in range(len(s)):
+#     for j in range(i+1,len(s)):
+
 # Question-13
 #n=int(input())
 #l=[]
